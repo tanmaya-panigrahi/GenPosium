@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 
 export default function Contact() {
     return (
@@ -81,7 +82,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    kishlayk7357@gmail.com
+                                    tanmayapanigrahi21@gmail.com
                                 </div>
                             </div>
                         </div>
